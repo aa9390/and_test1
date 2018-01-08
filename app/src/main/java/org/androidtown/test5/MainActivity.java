@@ -14,4 +14,6 @@ public class MainActivity extends AppCompatActivity {
         // 로딩 화면 먼저 출력
         startActivity(new Intent(this, SplashActivity.class));
     }
+
+    //git test
 }

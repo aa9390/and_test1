@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Test5</string>
+    <string name="send_button">보내기버튼</string>
 </resources>
